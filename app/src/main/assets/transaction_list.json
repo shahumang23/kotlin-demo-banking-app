@@ -1,0 +1,68 @@
+{
+  "transactionList": [{
+    "date": "21-04-2020",
+    "transactions": [{
+      "id": 1,
+      "vendor": "grocery",
+      "vendorName": "New World Supermarket",
+      "amount": "$15"
+    },
+      {
+        "id": 2,
+        "vendor": "travelling",
+        "vendorName": "Uber",
+        "amount": "$15"
+      },
+      {
+        "id": 3,
+        "vendor": "restaurant",
+        "vendorName": "Tandoori heritage",
+        "amount": "$50"
+      }
+    ]
+  },
+    {
+      "date": "20-04-2020",
+      "transactions": [{
+        "id": 4,
+        "vendor": "travelling",
+        "vendorName": "Flemingo",
+        "amount": "$7"
+      }, {
+        "id": 5,
+        "vendor": "grocery",
+        "vendorName": "Count Down",
+        "amount": "$50"
+      }, {
+        "id": 6,
+        "vendor": "travelling",
+        "vendorName": "Metlink",
+        "amount": "$2.50"
+      }, {
+        "id": 7,
+        "vendor": "restaurant",
+        "vendorName": "Little India",
+        "amount": "$60"
+      }]
+    },
+    {
+      "date": "19-04-2020",
+      "transactions": [{
+        "id": 8,
+        "vendor": "drinks",
+        "vendorName": "The Malthouse",
+        "amount": "$60"
+      }, {
+        "id": 9,
+        "vendor": "travelling",
+        "vendorName": "Uber",
+        "amount": "$7"
+      }, {
+        "id": 9,
+        "vendor": "grocery",
+        "vendorName": "New World",
+        "amount": "$70"
+      }]
+    }
+  ]
+}

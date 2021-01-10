@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "accountType": "Credit Account",
+    "accountNumber": "021000021",
+    "balance": "400000"
+  },
+  {
+    "id": 2,
+    "accountType": "Saving Account",
+    "accountNumber": "00257596",
+    "balance": "1000000"
+  },
+  {
+    "id": 3,
+    "accountType": "Joint Account",
+    "accountNumber": "091000019",
+    "balance": "2000000"
+  },
+  {
+    "id": 4,
+    "accountType": "Business Account",
+    "accountNumber": "011401533",
+    "balance": "1000000"
+  },
+  {
+    "id": 5,
+    "accountType": "Credit Card",
+    "accountNumber": "5105-xxxx-xxxx-5100",
+    "balance": "89000"
+  }
+]

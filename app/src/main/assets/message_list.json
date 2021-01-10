@@ -1,0 +1,26 @@
+[{
+  "id": 1,
+  "message": "heloo how are you efewfegw ewrewrerh ewrwerewr werwerwer werweewr werwerewr werewrer werwerewr?",
+  "time": "021000021",
+  "sender": "user"
+},
+  {
+    "id": 2,
+    "message": "heloo how are you efewfegw ewrewrerh ewrwerewr werwerwer werweewr werwerewr werewrer werwerewr?",
+    "time": "021000021",
+    "sender": "admin",
+    "displayResolutionButton": false
+  },
+  {
+    "id": 3,
+    "message": "Joint Account",
+    "time": "091000019",
+    "sender": "user"
+  },
+  {
+    "id": 4,
+    "message": "Okay thanks to getting back to us",
+    "time": "091000019",
+    "sender": "admin"
+  }
+]
